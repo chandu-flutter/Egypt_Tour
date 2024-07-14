@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>920883909233-ji6dmee62embfv8ng534k1se144v0qs7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.920883909233-ji6dmee62embfv8ng534k1se144v0qs7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>920883909233-doiafcch0855l63r4oqggvd85ff7pn9a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjNHz0mjpS83awKlHu8H8zugGMn17sUpM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>920883909233</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.egypttravel.guru</string>
+	<key>PROJECT_ID</key>
+	<string>egypttourguide</string>
+	<key>STORAGE_BUCKET</key>
+	<string>egypttourguide.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:920883909233:ios:735ee81f959fc55d66c1d0</string>
+</dict>
+</plist>
